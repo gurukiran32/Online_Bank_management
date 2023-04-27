@@ -34,12 +34,6 @@ Open Mysql Workbench
 <li>Step 3: select sql and execute the file </li>
 </ul>
 
-<h3>Configuration in Application.poperties File</h3>
-Open appliaction.properties file
-<ul>
-<li>Step 1: Edit Your Company Mail and Password Details</li>
-<li>Step 2: Edit Your DB username and Password DEtails</li>
-</ul>
 <h5>Login Details :</h5>
 Username : admin<br>
 Password : admin
